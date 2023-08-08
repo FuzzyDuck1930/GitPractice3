@@ -1,1 +1,3 @@
 Hola, este es mi primer archivo en Git ;-;
+
+Hola de nuevo, por ahora va todo bien.
